@@ -181,7 +181,7 @@ body{
 
 #mp3 {
 	width: 100%;
-	margin: auto;
+	margin: 0 auto;
 	left:0;
 	right: 0;
 }
